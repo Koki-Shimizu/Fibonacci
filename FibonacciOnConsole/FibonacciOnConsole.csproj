@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="Fibonacci.cs" />
     <Compile Include="FibonacciCUI.cs" />
-    <Compile Include="IFibonacci.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
